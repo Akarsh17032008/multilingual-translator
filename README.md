@@ -7,7 +7,6 @@ Built with **Python** — powered by **SpeechRecognition**, **DeepTranslator**, 
 
 ## 🎥 Demo
 
-https://user-images.githubusercontent.com/your-demo-link/video.mp4 *(Optional: Add a screen recording or GIF here)*
 
 ---
 
